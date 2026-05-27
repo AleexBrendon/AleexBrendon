@@ -1,33 +1,31 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Alex!
+# 👋 Olá, eu sou o Alex
 
-### Desenvolvedor Full Stack • Laravel • TypeScript • React
+### Full Stack Developer • Laravel • TypeScript • React
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Especialista+em+Laravel+e+SaaS;React+%2B+TypeScript;Clean+Code+%26+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Laravel+%7C+TypeScript+%7C+React;SaaS+%26+ERP+Architecture;Clean+Code+%26+Performance" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+## 🧠 Sobre mim
 
-Sou um Desenvolvedor Full Stack apaixonado por criar soluções modernas, escaláveis e performáticas.
+Desenvolvedor Full Stack focado em construir sistemas escaláveis, performáticos e bem estruturados.
 
-Atuo principalmente com:
+Trabalho principalmente com:
 
 * 🏢 Arquitetura SaaS e ERP
-* ⚡ Laravel & APIs REST
-* 🎨 Blade + React + TypeScript
-* 🐳 Docker & Infraestrutura
-* 🔐 Clean Code & Boas práticas
-* 📈 Otimização e Performance
-
-Tenho experiência prática no desenvolvimento de sistemas reais como plataformas de gestão, automações e soluções empresariais.
+* ⚡ APIs REST com Laravel
+* 🎨 Frontend moderno com React + TypeScript
+* 🐳 Docker e ambientes consistentes
+* 🔐 Boas práticas e Clean Code
+* 📈 Otimização de performance
 
 ---
 
-# 🛠️ Stack Principal
+## 🛠️ Stack principal
 
 <div align="center">
 
@@ -37,12 +35,12 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# 🌐 Conecte-se comigo
+## 🌐 Conecte-se comigo
 
 <div align="center">
 
 <a href="https://github.com/aleexbrendon">
-  <img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com">
@@ -57,7 +55,7 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -69,17 +67,17 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# 🔥 Sequência de Contribuições
+## 🔥 Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aleexbrendon&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aleexbrendon&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
 
@@ -89,20 +87,10 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# ⚡ GitHub Overview
+## 💡 Mensagem final
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aleexbrendon&theme=tokyonight"/>
-
-</div>>
-
----
-
-<div align="center">
-
-### 💻 “Transformando ideias em soluções escaláveis através da tecnologia.”
+### “Transformando ideias em sistemas reais com código limpo e escalável.”
 
 </div>
