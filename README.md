@@ -1,57 +1,98 @@
-<h1 align="center">Olá, eu sou o Alex! 👋</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Full Stack | Especialista em Ecossistema Laravel & Frontend Moderno</h3>
+# Olá, eu sou o Alex! 👋
 
-<br>
+### Desenvolvedor Full Stack | Laravel • TypeScript • React • SaaS Architecture
 
-<p align="center">
-  Sou um Desenvolvedor Full Stack apaixonado por transformar regras de negócio complexas em soluções digitais fluidas e escaláveis. Com sólido domínio no ecossistema <strong>PHP (Laravel)</strong> e forte base em <strong>TypeScript</strong>, foco meu trabalho na criação de arquiteturas robustas, otimização de performance e integração eficiente de APIs.
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Especialista+em+Laravel+e+TypeScript;Arquitetura+SaaS+e+ERP;Clean+Code+%26+Performance" />
 
-<br>
-<hr>
-<br>
+</div>
 
-<h2>Principais Competências e Impacto:</h2>
+---
 
-<ul>
-  <li>🏢 <strong>Arquitetura SaaS & ERP com Laravel:</strong> Experiência predominante em PHP, utilizando Laravel para estruturar sistemas de gestão e soluções SaaS escaláveis.</li>
-  <li>🎨 <strong>Domínio de Blade & Templating:</strong> Alta proficiência na criação de interfaces dinâmicas e integradas diretamente ao backend, garantindo entregas rápidas e performáticas.</li>
-  <li>💻 <strong>Frontend Moderno com TypeScript:</strong> Sólida experiência no desenvolvimento de camadas de interface utilizando <strong>React</strong> e <strong>TypeScript</strong>, priorizando a segurança do código e experiência do usuário.</li>
-  <li>🏗️ <strong>Infraestrutura e Projetos Reais:</strong> Conhecimentos em <strong>Docker</strong> para padronização de ambientes e atuação direta em projetos como <em>imobi</em> e <em>taskflow</em>.</li>
-</ul>
+## 🚀 Sobre mim
 
-<br>
+Sou um Desenvolvedor Full Stack apaixonado por transformar regras de negócio complexas em soluções digitais fluidas e escaláveis.
 
-<p>Comprometido com a escrita de código limpo (<em>Clean Code</em>) e as melhores práticas, busco constantemente entregar produtos que impulsionem o crescimento do negócio através da tecnologia.</p>
+Com forte atuação no ecossistema **Laravel + PHP** e sólida experiência em **React + TypeScript**, foco na construção de aplicações performáticas, arquiteturas robustas e integrações eficientes.
 
-<br>
-<hr>
-<br>
+### 🧠 Especialidades
 
-<h2>Conecte-se comigo:</h2>
+* 🏢 Arquitetura SaaS & ERP
+* ⚡ APIs RESTful escaláveis
+* 🎨 Blade & Frontend moderno
+* 🐳 Docker & Ambientes isolados
+* 🔐 Clean Code & Boas práticas
+* 📈 Performance e otimização
 
-<p align="left">
-<a href="https://www.linkedin.com/in/alex-brendon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:alexbrendonoficial@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+---
 
-<br>
+## 🛠️ Tecnologias
 
-<h2>Minhas Estatísticas do GitHub:</h2>
+<div align="center">
 
-## 📊 Minhas Estatísticas do GitHub
+<img src="https://skillicons.dev/icons?i=php,laravel,typescript,javascript,react,nodejs,docker,mysql,postgres,git,github,vscode" />
 
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
-  />
+</div>
 
-<img 
- height="180em" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexbrendon&layout=compact&langs_count=7&theme=tokyonight" 
-/>
+---
 
-</p>
+## 🌐 Conecte-se comigo
 
+<div align="center">
+
+<a href="https://github.com/aleexbrendon">
+<img src="https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:seuemail@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexbrendon&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=aleexbrendon&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aleexbrendon&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
