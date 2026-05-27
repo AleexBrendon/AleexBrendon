@@ -40,7 +40,18 @@
 
 <h2>Minhas Estatísticas do GitHub:</h2>
 
+## 📊 Minhas Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AleexBrendon&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub do Alex" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleexBrendon&layout=compact&theme=tokyonight&hide=cpp,c" alt="Linguagens mais usadas do Alex" />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
+  />
+
+<img 
+ height="180em" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexbrendon&layout=compact&langs_count=7&theme=tokyonight" 
+/>
+
 </p>
+
