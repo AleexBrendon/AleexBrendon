@@ -57,13 +57,13 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# 📊 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleexbrendon&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleexbrendon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,11 +89,11 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aleexbrendon&theme=algolia&no-frame=true&no-bg=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aleexbrendon&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
