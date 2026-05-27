@@ -57,7 +57,7 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -89,13 +89,15 @@ Tenho experiência prática no desenvolvimento de sistemas reais como plataforma
 
 ---
 
-## 🏆 GitHub Trophies
+# ⚡ GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aleexbrendon&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aleexbrendon&show_icons=true&theme=tokyonight"/>
 
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aleexbrendon&theme=tokyonight"/>
+
+</div>>
 
 ---
 
